@@ -179,3 +179,8 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
+
+## Other Stuff
+  - :octocat: [My Resume](file:///C:/Users/Personal/Downloads/curriculum/curr%C3%ADculumvincent.pdf)
+  - Actualmente (30/06/2025) estoy en mi 6to semestre de carrera de Ingenieria. Me estoy especializando en el desarrollo Backend con Laravel, y el desarrollo de Apps Android
+
