@@ -1,6 +1,6 @@
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Vincent Fernández</a> - aka 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hi there 👋, I'm <a href="https://freshidea.com/jonah/">Vincent Fernández</a> - aka 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-## 📖 Cerca de mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 * 💻 Soy un desarrollador web full stack, pero principalmente especializado en el backend
 * 📱 Hago aplicaciones de escritorio en java, y Apps moviles en android studio
