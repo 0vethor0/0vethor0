@@ -1,54 +1,54 @@
-<h3 align="center">Hi there 👋, I'm <a href="https://freshidea.com/jonah/">Vincent Fernández</a> - aka 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 alinear="centro">Hola 👋, estoyy <a href="https://freshidea.com/jonah/">Vicente Fernández</a> - también conocido como 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" ancho="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" ancho="28"/></h3>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <imagen><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" ancho = 30px></imagen> Sobre mí
 
 * 💻 Soy un desarrollador web full stack, pero principalmente especializado en el backend
-* 📱 Hago aplicaciones de escritorio en java, y Apps moviles en android studio
-* 🎓 Actualmente soy estudiante de Ingenieria en Sistemas en la UNEFA Venezuela
+* 📱 Hago aplicaciones de escritura en java, y Apps móviles en android studio
+* 🎓 Actualmente soy estudiante de Ingeniería en Sistemas en la UNEFA Venezuela
 * 🌐Puedes ver álbumes de mis proyectos en [mi portafolio](https://github.com/0vethor0/)
 
-## 📘 My top open source projects
+## 📘 Mis principales proyectos de código abierto
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
+<tabla>
+  <thead alinear="centro">
+    <tr frontera: ninguno;>
+      <td><b>📘 Proyecto</b></td>
+      <td><b>⭐ Estrellas</b></td>
+      <td><b>🤝Horquillas</b></td>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+  <cuervo t>
+ "https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><tr>
+      <td><a href="https://github.com/0vethor0/BUMI"><b>Buscador de Material de Investigación (BUMI)</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>Estadísticas de la racha de readme en GitHub</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>Estadísticas de YouTube de GitHub Readme</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Formateador Unicode</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Deseditar para Reddit</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
-  </tbody>
-</table>
+  </cuerpo t>
+</tabla>
 
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+<p alinear="izquierda">
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt=„Portafolio"" tipulo=„Portafolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=agregar esto&logoColor=blanco"/>title="Portafolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 
