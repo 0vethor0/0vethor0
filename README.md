@@ -107,5 +107,5 @@
 </details>
 
 ## Otra información
-- :octocat: [Mi Currículum](https://example.com/ruta/a/tu/cv.pdf) <!-- ¡IMPORTANTE! Sube tu CV a algún lugar público y reemplaza este enlace. -->
+- :octocat: [Mi Currículum](https://drive.google.com/file/d/1Hypltk8rJXuvpcbSwgrdA2xuSokawQSB/view?usp=sharing)
 - Actualmente estoy en mi 6to semestre de la carrera de Ingeniería. Me estoy especializando en el desarrollo Backend con Laravel y el desarrollo de Apps Android.
