@@ -1,186 +1,111 @@
-<h3 alinear="centro">Hola 👋, estoyy <a href="https://freshidea.com/jonah/">Vicente Fernández</a> - también conocido como 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" ancho="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" ancho="28"/></h3>
+<h3 align="center">Hola 👋, soy <a href="https://github.com/0vethor0/">Vicente Fernández</a> - también conocido como 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-## <imagen><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" ancho = 30px></imagen> Sobre mí
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Sobre mí
 
-* 💻 Soy un desarrollador web full stack, pero principalmente especializado en el backend
-* 📱 Hago aplicaciones de escritura en java, y Apps móviles en android studio
-* 🎓 Actualmente soy estudiante de Ingeniería en Sistemas en la UNEFA Venezuela
-* 🌐Puedes ver álbumes de mis proyectos en [mi portafolio](https://github.com/0vethor0/)
+* 💻 Soy un desarrollador web full stack, pero principalmente especializado en el backend.
+* 📱 Hago aplicaciones de escritorio en Java, y Apps móviles en Android Studio.
+* 🎓 Actualmente soy estudiante de Ingeniería en Sistemas en la UNEFA Venezuela.
+* 🌐 Puedes ver álbumes de mis proyectos en [mi portafolio](https://github.com/0vethor0/).
 
 ## 📘 Mis principales proyectos de código abierto
 
-<tabla>
-  <thead alinear="centro">
-    <tr frontera: ninguno;>
+<!-- Nota: Reemplacé los proyectos de ejemplo con tu proyecto "BUMI" y otros marcadores de posición. -->
+<!-- Deberías actualizarlos con tus propios proyectos y sus estadísticas. -->
+<table width="100%">
+  <thead align="center">
+    <tr style="border: none;">
       <td><b>📘 Proyecto</b></td>
       <td><b>⭐ Estrellas</b></td>
-      <td><b>🤝Horquillas</b></td>
+      <td><b>🤝 Forks</b></td>
     </tr>
   </thead>
-  <cuervo t>
- "https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><tr>
+  <tbody>
+    <tr>
       <td><a href="https://github.com/0vethor0/BUMI"><b>Buscador de Material de Investigación (BUMI)</b></a></td>
-      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&etiquetaColor=343b41"/></td>
-      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/BUMI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/BUMI?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>Estadísticas de la racha de readme en GitHub</b></a></td>
-      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&etiquetaColor=343b41"/></td>
-      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&etiquetaColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>Estadísticas de YouTube de GitHub Readme</b></a></td>
-      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&etiquetaColor=343b41"/></td>
-      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><a href="https://github.com/0vethor0/DistribucionProbabilidadCadenaEhrenfest"><b>Distribucion de Probabilidad y Cadena de Ehrenfest (Conceptos aplicados de los Procesos Estocasticos)</b></a></td>
+      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Formateador Unicode</b></a></td>
-      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&etiquetaColor=343b41"/></td>
-      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><a href="https://github.com/0vethor0/carta_dia_de_las_madres_con_automusica"><b>Carta del dia de las madres con animación y musica de fondo</b></a></td>
+      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Deseditar para Reddit</b></a></td>
-      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&etiquetaColor=343b41"/></td>
-      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&etiquetaColor=343b41"/></td>
-    </tr>
-  </cuerpo t>
-</tabla>
+  </tbody>
+</table>
 
-
-<p alinear="izquierda">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt=„Portafolio"" tipulo=„Portafolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=agregar esto&logoColor=blanco"/>title="Portafolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+<p align="left">
+  <a href="https://github.com/0vethor0?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
-
 
 ## 🛠️ Mis habilidades
 
 ### 👉 Lenguajes de programación
-
-<p alinear="izquierda"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" objetivo="_blanco"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=blanco">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" objetivo="_blanco"> 
-    <img alt=„C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=blanco">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo="_blanco"> 
-     <img alt=„JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=negro">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" objetivo="_blanco"> 
-    <img alt=„Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=blanco">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" objetivo="_blanco">
-    <img alt=„Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=blanco">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=blanco"/>
-  </a>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/></a>
 </p>
 
-### 👉 Desarrollo del frontend
-<p alinear="izquierda"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" objetivo="_blanco"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=blanco">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" objetivo="_blanco">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=blanco">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" objetivo="_blanco"> 
-    <img alt=„Arranque de arranque" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logotipo=bootstrap&logoColor=blanco"/>
-  </a>
+### 👉 Desarrollo Backend
+<p align="left">
+  
+  <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"><img alt="API REST" src="https://img.shields.io/badge/API%20REST-lightgrey?style=flat"></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"></a>
+
 </p>
 
 ### 👉 Bases de datos y alojamiento en la nube
-<p alinear="izquierda">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt=„Mysql" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=blanco"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=blanco"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt=„Páginas de GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=blanco"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt=„Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=blanco"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt=„Base de fuego" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=blanco"></a>
- </p>
+<p align="left">
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
+  <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+</p>
   
-### 👉Diseño gráfico
-<p alinear="izquierda">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" objetivo="_en blanco"> 
-    <img alt=„Adobe Ilustrador" src="https://img.shields.io/badge/Adobe Ilustrador-%23FF9A00.svg?estilo=plano&logotipo=adobeillustrator&logoColor=blanco"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" objetivo="_en blanco"> 
-    <img alt=„Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?estilo=plano&logotipo=adobeindesign&logoColor=blanco"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" objetivo="_en blanco"> 
-    <img alt=„Adobe Cuarto de luz" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?estilo=plano&logotipo=alojador de luz&logoColor=blanco"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" objetivo="_en blanco"> 
-   <img alt=„Adobe Estreno Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?estilo=plano&logotipo=adobepremierepro&logoColor=blanco"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logotipo=Canva&logoColor=blanco"/>
-  </a>
- </p>
-
- ### 👉 Software y herramientos
- 
-<p>
-  &emsp;
-    <a href="#"><img alt=„Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt=„Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt=„Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logotipo=linux&logoColor=negro"></a>
-  &emsp;
-    <a href="#"><img alt="Hojas de cálculo de Google" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt=„Código de Visual Estudio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt=„Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=blanco"></a>
-  &emsp;
-    <a href="#"><img alt="Desbordamiento de pila" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=blanco"></a>
-  &emsp;
+### 👉 Software y herramientas para el Frontend
+<p align="left">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/></a> 
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
+  <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://magicui.design/" target="_blank"><img alt="MagicUI" src="https://img.shields.io/badge/MagicUI-blue?style=flat&logoColor=white"></a>
+  <a href="https://boxicons.com/" target="_blank"><img alt="Boxicons" src="https://img.shields.io/badge/Boxicons-34B7F1?style=flat&logo=boxicons&logoColor=white"></a>
+  <a href="https://uiverse.io/" target="_blank"><img alt="UIverse" src="https://img.shields.io/badge/UIverse-lightgrey?style=flat"></a>
 </p>
 
-## 📈 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+## 📈 Estadísticas de Github
+
 <details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary>📊 Estadísticas del Perfil de GitHub</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Estadísticas de 0vethor0 en Github" src="https://github-readme-stats.vercel.app/api?username=0vethor0&show_icons=true&count_private=true" />
+  </a>
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>💻 Lenguajes más usados</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Lenguajes de 0vethor0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0vethor0&langs_count=10&layout=compact" />
+  </a>
   <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  <b>Nota:</b> Este gráfico es solo una métrica de los lenguajes en mi código público de GitHub y no refleja mi experiencia o nivel de habilidad.
 </details>
 
-## Other Stuff
-  - :octocat: [My Resume](file:///C:/Users/Personal/Downloads/curriculum/curr%C3%ADculumvincent.pdf)
-  - Actualmente (30/06/2025) estoy en mi 6to semestre de carrera de Ingenieria. Me estoy especializando en el desarrollo Backend con Laravel, y el desarrollo de Apps Android
-
+## Otra información
+- :octocat: [Mi Currículum](https://example.com/ruta/a/tu/cv.pdf) <!-- ¡IMPORTANTE! Sube tu CV a algún lugar público y reemplaza este enlace. -->
+- Actualmente estoy en mi 6to semestre de la carrera de Ingeniería. Me estoy especializando en el desarrollo Backend con Laravel y el desarrollo de Apps Android.
