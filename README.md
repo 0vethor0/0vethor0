@@ -1,54 +1,54 @@
-<h3 align="center">Hola 👋, soy <a href="https://github.com/0vethor0/">Vicente Fernández</a> - también conocido como 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align=logoColor=black""center"Hola 👋, soja <a href="https://github.com/0vethor0/">Vincent Fernandez</a> - también conocido como 0vethor0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" ancho="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" ancho="28"/></h3>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Sobre mí
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" ancho="30"> Sobre mí
 
 * 💻 Soy un desarrollador web full stack, pero principalmente especializado en el backend.
-* 📱 Hago aplicaciones de escritorio en Java, y Apps móviles en Android Studio.
+* 📱 Hago aplicaciones de escritura en Java, y Apps móviles en Android Studio.
 * 🎓 Actualmente soy estudiante de Ingeniería en Sistemas en la UNEFA Venezuela.
 * 🌐 Puedes ver álbumes de mis proyectos en [mi portafolio](https://portafolio-vincent-dev.vercel.app).
 
 ## 📘 Mis principales proyectos de código abierto
 
-<!-- Nota: Reemplacé los proyectos de ejemplo con tu proyecto "BUMI" y otros marcadores de posición. -->
-<!-- Deberías actualizarlos con tus propios proyectos y sus estadísticas. -->
-<table width="100%">
-  <thead align="center">
-    <tr style="border: none;">
-      <td><b>📘 Proyecto</b></td>
-      <td><b>⭐ Estrellas</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/0vethor0/BUMI"><b>Buscador de Material de Investigación (BUMI)</b></a></td>
-      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/BUMI?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/BUMI?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0vethor0/DistribucionProbabilidadCadenaEhrenfest"><b>Distribucion de Probabilidad y Cadena de Ehrenfest (Conceptos aplicados de los Procesos Estocasticos)</b></a></td>
-      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&labelColor=343b41"/></td>
+<!-- Nota: Reemplazé los proyectos de ejemplo con tu proyecto "BUMI" y otros marcadores de posición. -->
+<!-- Deberías actualizarlos con tus propiedades proyectos y sus estadísticas. -->
+<tabla ancho="100%">
+  <thead alinear="centro">
+    <tr estilo="frontera: ninguno;>
+ <td><b>📘 Proyecto</b></td>
+ <td><b>⭐ Estrellas</b></td>
+ <td><b>🤝 Horquillas</b></td>
+ </tr>
+ </thead>
+ <cuerpo t>
+ <tr>
+ <td><a href="https://github.com/0vethor0/BUMI"><b>Buscador de Material de Investigación (BUMI)</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/0vethor0/BUMI?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/0vethor0/BUMI?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/0vethor0/carta_dia_de_las_madres_con_automusica"><b>Carta del dia de las madres con animación y musica de fondo</b></a></td>
-      <td><img alt="Estrellas" src="https://img.shields.io/github/stars/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/0vethor0/DistribucionProbabilidadCadenaEhrenfest"><b>Distribución de Probabilidad y Cadena de Ehrenfest (Conceptos aplicados de los Procesos Estocásticos)</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/0vethor0/DistribucionProbabilidadCadenaEhrenfest?style=flat-square&etiquetaColor=343b41"/></td>
     </tr>
-  </tbody>
-</table>
+    <tr>
+      <td><a href="https://github.com/0vethor0/carta_dia_de_las_madres_con_automusica"><b>Carta del día de las madres con animación y música de fondo</b></a></td>
+      <td><img alt=„Estrellas" src="https://img.shields.io/github/stars/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&etiquetaColor=343b41"/></td>
+      <td><img alt=„Tenedores" src="https://img.shields.io/github/forks/0vethor0/carta_dia_de_las_madres_con_automusica?style=flat-square&etiquetaColor=343b41"/></td>
+    </tr>
+  </cuerpo t>
+</tabla>
 
-<p align="left">
-  <a href="https://github.com/0vethor0?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+<p alinear="izquierda">
+  <a href="https://github.com/0vethor0?tab=repositories"><img alt=„Portafolio" tipulo=„Portafolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=agregar esto&logoColor=blanco"/></a>
 </p>
 
 ## 🛠️ Mis habilidades
 
 ### 👉 Lenguajes de programación
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<p alinear="izquierda"> 
+  <a href="https://www.cprogramming.com/" objetivo="_en blanco"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=blanco"></a> 
+  <a href="https://www.w3schools.com/cpp/" objetivo="_en blanco"><img alt=„C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=blanco"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo="_en blanco"><img alt=„JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=negro"></a>
   <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/></a>
